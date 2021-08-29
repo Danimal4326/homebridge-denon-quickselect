@@ -9,18 +9,12 @@
   "accessories": [
     {
       "accessory": "denon-quickselect",
-      "name": "Internet Radio",
-      "quickselect": 1,
-      "host": "",
-      "zone": 1
-    },
-    {
-      "accessory": "denon-quickselect",
       "name": "AppleTV",
-      "pingUrl": "http://192.168.0.89:3689",
-      "quickselect": 2,
-      "host": "",
-      "zone": 1
+      "quickSelect": 2,
+      "defaultQuickSelect": 1,
+      "host": "192.168.0.89",
+      "zone": 1,
+      "matchSurroundMode": "Multi Ch Stereo"
     }
   ]
 }
