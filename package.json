@@ -22,7 +22,7 @@
     "url": "git://github.com/Danimal4326/homebridge-denon-quickselect.git"
   },
   "dependencies": {
-    "request": ">2.69.0",
+    "request": ">=2.69.0",
     "xml2js": "^0.4.x"
   }
 }
