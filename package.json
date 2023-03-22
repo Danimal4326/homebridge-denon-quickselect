@@ -1,6 +1,6 @@
 {
   "name": "homebridge-denon-quickselect",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "homebridge plugin to control QuickSelect on denon receivers",
   "license": "MIT",
   "keywords": [
@@ -15,11 +15,11 @@
     "homebridge": ">=0.4.0"
   },
   "author": {
-    "name": "Max Stockner <mail@bluemaex.de>"
+    "name": "Dan Chlopek"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bluemaex/homebridge-denon-quickselect.git"
+    "url": "git://github.com/Danimal4326/homebridge-denon-quickselect.git"
   },
   "dependencies": {
     "request": "^2.69.0",
