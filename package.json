@@ -1,6 +1,6 @@
 {
   "name": "@danimal4326/homebridge-denon-quickselect",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "homebridge plugin to control QuickSelect on denon receivers",
   "license": "MIT",
   "keywords": [
