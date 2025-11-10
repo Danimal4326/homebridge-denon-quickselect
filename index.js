@@ -6,7 +6,7 @@ module.exports = function(homebridge) {
   Characteristic = homebridge.hap.Characteristic
   Service = homebridge.hap.Service
 
-  homebridge.registerAccessory('homebridge-denon-quickselect', 'denon-quickselect', DenonQuickselect)
+  homebridge.registerAccessory(''@danimal4326/homebridge-denon-quickselect', 'denon-quickselect', DenonQuickselect)
 }
 
 function DenonQuickselect(log, config) {
